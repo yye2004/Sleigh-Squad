@@ -11,7 +11,7 @@ The Sleigh Squad Book Management System is a user-friendly, console-based person
 - Save and Exit – Ensures all changes are stored in the file books_22031827.txt.
 
 ## 📁 Data Storage
-All book data is saved in a file named books_22031827.txt. This file stores the initial as well as the latest updated information and is loaded every time the program runs, ensuring consistency and reliability.
+All book data is saved in a file of .txt format. This file stores the initial as well as the latest updated information and is loaded every time the program runs, ensuring consistency and reliability.
 
 ## 🖥️ How It Works
 - When the program starts, a menu is displayed with 7 available options.
