@@ -8,7 +8,7 @@ The Sleigh Squad Book Management System is a user-friendly, console-based person
 - Display All Books – View a complete list of your current collection.
 - Search for a Book – Quickly find a book by keyword or ISBN.
 - Clear Screen Option – Keeps the interface clean and readable after each action.
-- Save and Exit – Ensures all changes are stored in the file books_22031827.txt.
+- Save and Exit – Ensures all changes are stored in the file books.txt.
 
 ## 📁 Data Storage
 All book data is saved in a file of .txt format. This file stores the initial as well as the latest updated information and is loaded every time the program runs, ensuring consistency and reliability.
